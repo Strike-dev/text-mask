@@ -103,7 +103,7 @@
     "file-loader": "^0.9.0",
     "jsdom": "^9.2.1",
     "lodash": "^4.17.21",
-    "mocha": "^3.0.0",
+    "mocha": "^9.2.2",
     "mocha-dynamic-tests": "^2.0.0",
     "node-sass": "^7.0.1",
     "react": "^17.0.2",
